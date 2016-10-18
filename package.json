@@ -1,0 +1,17 @@
+{
+  "name": "appphuot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mkdirp": "^0.5.1",
+    "mongoose": "^4.6.4"
+  }
+}
